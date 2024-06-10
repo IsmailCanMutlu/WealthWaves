@@ -1,0 +1,7 @@
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves/obj/Debug/net8.0/WealthWaves.csproj.AssemblyReference.cache
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves/obj/Debug/net8.0/WealthWaves.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves/obj/Debug/net8.0/WealthWaves.AssemblyInfoInputs.cache
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves/obj/Debug/net8.0/WealthWaves.AssemblyInfo.cs
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves/obj/Debug/net8.0/WealthWaves.csproj.CoreCompileInputs.cache
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves/obj/Debug/net8.0/WealthWaves.MvcApplicationPartsAssemblyInfo.cs
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves/obj/Debug/net8.0/WealthWaves.MvcApplicationPartsAssemblyInfo.cache
