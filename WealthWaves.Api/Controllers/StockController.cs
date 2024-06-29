@@ -1,17 +1,16 @@
+using WealthWaves.Api.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WealthWaves.Api.Data;
 using WealthWaves.Api.Dtos.Stock;
-using WealthWaves.Api.Mappers;
 using WealthWaves.Api.Helpers;
-using Microsoft.AspNetCore.Authorization;
+using WealthWaves.Api.Interfaces;
+using WealthWaves.Api.Mappers;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WealthWaves.Api.Interfaces;
 
-namespace WealthWaves.Controllers
+namespace WealthWaves.Api.Controllers
 {
     [Route("api/stock")]
     [ApiController]
@@ -26,7 +25,6 @@ namespace WealthWaves.Controllers
         }
 
         [HttpGet]
-        [Authorize]
         public async Task<IActionResult> GetAll([FromQuery] QueryObject query)
         {
             if (!ModelState.IsValid)
@@ -34,9 +32,9 @@ namespace WealthWaves.Controllers
 
             var stocks = await _stockRepo.GetAllAsync(query);
 
-            var stockDto = stocks.Select(s => s.ToStockDto()).ToList();
+            var stockDto = stocks.Select(s => s.ToStockDto());
 
-            return Ok(stockDto);
+            return Ok(stocks);
         }
 
         [HttpGet("{id:int}")]

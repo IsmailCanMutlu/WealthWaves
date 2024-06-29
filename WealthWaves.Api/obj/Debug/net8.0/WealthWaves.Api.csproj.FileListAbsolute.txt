@@ -110,3 +110,11 @@
 /Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/obj/Debug/net8.0/WealthWaves.Api.sourcelink.json
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
