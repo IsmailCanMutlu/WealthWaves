@@ -1,5 +1,8 @@
+using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
-
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace WealthWaves.Api.Models
 {
@@ -17,6 +20,7 @@ namespace WealthWaves.Api.Models
         public long MarketCap { get; set; }
 
         public List<Comment> Comments { get; set; } = new List<Comment>();
+        public List<Portfolio> Portfolios { get; set; } = new List<Portfolio>();
 
     }
 }

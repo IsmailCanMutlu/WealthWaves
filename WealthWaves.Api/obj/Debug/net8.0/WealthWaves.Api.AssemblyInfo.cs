@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WealthWaves.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ead568e28a84ae5edb11b3841ecca3f8ea0c9276")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56e5cd631322e584487a956b28f116825645fed0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WealthWaves.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WealthWaves.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -118,3 +118,7 @@
 /Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ismailcanmutlu/RiderProjects/WealthWaves/WealthWaves.Api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll

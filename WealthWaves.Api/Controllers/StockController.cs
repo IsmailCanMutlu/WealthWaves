@@ -8,6 +8,7 @@ using WealthWaves.Api.Helpers;
 using WealthWaves.Api.Interfaces;
 using WealthWaves.Api.Mappers;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 
 namespace WealthWaves.Api.Controllers
@@ -25,6 +26,7 @@ namespace WealthWaves.Api.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> GetAll([FromQuery] QueryObject query)
         {
             if (!ModelState.IsValid)
